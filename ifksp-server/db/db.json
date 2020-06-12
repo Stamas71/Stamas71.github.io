@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tom",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Little Jim",
+      "email": "littlejim@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Mid John",
+      "email": "midjohn@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Piri",
+      "email": "p@gmail.com"
+    },
+    {
+      "name": "Antonio F",
+      "email": "af@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
